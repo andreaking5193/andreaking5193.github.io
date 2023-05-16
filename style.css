@@ -4,11 +4,8 @@ border-radius: 50%;
 display:block;
 margin-left: auto;
 margin-right: auto;
-
-  
-    
-
 }
+
 h1{
     background-color: pink;
     text-align: Center;
@@ -22,14 +19,15 @@ h3{
     border-color: yellow;
     background-color: pink;
     text-align:center;
-    
-
 }
+
 p{text-align: center;}
+
 h5{
     background-color: pink;
     text-align: center;
 }
+
 ul{
 text-align:left;
 }
